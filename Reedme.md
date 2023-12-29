@@ -8,6 +8,7 @@ A lot of lectures are already submmited
 This is the famous guy right here
 Adding GIT Rebase Lectures in GIT Advance part.
 This is awesome.
+We have done so much of work together
 
 ## GIT Comparison
 Adding GIT Comparisons Lecture
