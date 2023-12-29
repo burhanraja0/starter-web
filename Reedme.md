@@ -10,5 +10,9 @@ This is the famous guy right here
 ## GIT Comparison
 Adding GIT Comparisons Lecture
 
+## Contribution
+Fork the Repo and rais pull request for review 
+
 ## GIT Content
 Comparison with Repo
+
