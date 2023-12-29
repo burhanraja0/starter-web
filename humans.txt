@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Burhan Raja <twitter>
+    Burhan Raja
+    burhanuddin.raja@aipxperts.com
+    System Engineer
 
 # THANKS
 
