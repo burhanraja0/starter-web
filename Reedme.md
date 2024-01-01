@@ -13,10 +13,12 @@ We have done so much of work together
 
 ## GIT Comparison
 Adding GIT Comparisons Lecture
+Adding new lectures of stash
 
 ## Contribution
 Fork the Repo and rais pull request for review 
 
 ## GIT Content
 Comparison with Repo
+
 
