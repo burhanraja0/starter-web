@@ -5,6 +5,7 @@
 Hi, I am modifing the file before rebase
 Changes in local.
 Doing some changes again in local
+Adding important notes on GIT Stash
 
 Hi, Going to insert conflicts in my feature branch
 
