@@ -3,6 +3,7 @@ This is GIT Project, Which we are using as Sample project
 
 ## Introduction
 A lot of lectures are already submmited
+And a kot of lectures are still coming on.
 
 ## GIT & GITHub Training
 This is the famous guy right here
